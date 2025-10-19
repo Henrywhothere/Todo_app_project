@@ -67,7 +67,7 @@ Run all test with command: python manage.py test
 
 ## Deployment
 Deployed using **Railway** for continuous hosting.
-Replace the link below with your live API once deployed: (điền sau khi deploy)
+Live Link: https://web-production-e7f8e.up.railway.app
 
 
 ---
